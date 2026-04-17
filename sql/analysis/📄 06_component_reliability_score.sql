@@ -1,4 +1,4 @@
-reliability = 1 / (1 + number_of_anomalies)
+-- reliability = 1 / (1 + number_of_anomalies)
 
 SELECT 
     c.component_name,
