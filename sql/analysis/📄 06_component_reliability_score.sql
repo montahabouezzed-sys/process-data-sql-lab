@@ -1,4 +1,7 @@
--- reliability = 1 / (1 + number_of_anomalies)
+/* 
+Component Reliability Score
+Formula: reliability = 1 / (1 + number_of_anomalies)
+*/
 
 SELECT 
     c.component_name,
