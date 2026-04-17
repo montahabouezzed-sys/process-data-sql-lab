@@ -1,1 +1,12 @@
+vehicle_id,model,year,drivetrain
+1,Model X,2022,EV
+2,Model S,2021,EV
+3,Tiguan,2020,Petrol
+4,Golf,2019,Diesel
+5,ID.4,2023,EV
+6,A3,2020,Petrol
+7,Q4 e-tron,2022,EV
+8,Passat,2018,Diesel
+9,Octavia,2021,Hybrid
+10,Enyaq,2023,EV
 
