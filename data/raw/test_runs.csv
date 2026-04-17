@@ -1,1 +1,19 @@
-
+test_run_id,vehicle_id,component_id,start_time,end_time,operator,ambient_temp,notes
+1,1,1,2023-01-10 08:00,2023-01-10 09:30,Alice,18.5,Initial battery endurance test
+2,2,2,2023-01-11 10:15,2023-01-11 11:45,Bob,17.2,Inverter thermal stability
+3,3,3,2023-01-12 09:00,2023-01-12 10:00,Charlie,16.8,ECU cold start behavior
+4,4,4,2023-01-13 14:00,2023-01-13 15:20,Alice,19.1,Brake pressure sensor calibration
+5,5,5,2023-01-14 08:30,2023-01-14 10:00,Bob,20.3,Steering angle sensor drift test
+6,6,6,2023-01-15 13:00,2023-01-15 14:30,Charlie,21.0,12V battery load cycle
+7,7,7,2023-01-16 09:45,2023-01-16 11:00,Alice,18.9,DC-DC converter efficiency test
+8,8,8,2023-01-17 15:00,2023-01-17 16:10,Bob,17.5,Airbag control unit diagnostics
+9,9,9,2023-01-18 10:00,2023-01-18 11:30,Charlie,16.0,Wheel speed sensor noise analysis
+10,10,10,2023-01-19 08:00,2023-01-19 09:20,Alice,19.8,Onboard charger thermal cycle
+11,1,2,2023-01-20 11:00,2023-01-20 12:30,Bob,18.2,Inverter under high load
+12,2,3,2023-01-21 09:30,2023-01-21 10:45,Charlie,17.9,ECU firmware validation
+13,3,4,2023-01-22 14:00,2023-01-22 15:10,Alice,20.1,Brake sensor vibration test
+14,4,5,2023-01-23 08:15,2023-01-23 09:40,Bob,19.4,Steering sensor alignment
+15,5,6,2023-01-24 10:00,2023-01-24 11:20,Charlie,18.7,12V battery discharge curve
+16,6,7,2023-01-25 13:30,2023-01-25 14:50,Alice,21.5,DC-DC converter ripple test
+17,7,8,2023-01-26 09:00,2023-01-26 10:30,Bob,20.0,Airbag ECU fault injection
+18,8,9,2023-01-27 15:00,2023-01
