@@ -1,0 +1,26 @@
+test_run_id,vehicle_id,component_id,start_time,end_time,operator,ambient_temp,notes
+1,1,1,2023-01-10 08:00:00,2023-01-10 09:30:00,Alice,18.5,Initial battery endurance test
+2,2,2,2023-01-11 10:15:00,2023-01-11 11:45:00,Bob,17.2,Inverter thermal stability
+3,3,3,2023-01-12 09:00:00,2023-01-12 10:00:00,Charlie,16.8,ECU cold start behavior
+4,4,4,2023-01-13 14:00:00,2023-01-13 15:20:00,Alice,19.1,Brake pressure sensor calibration
+5,5,5,2023-01-14 08:30:00,2023-01-14 10:00:00,Bob,20.3,Steering angle sensor drift test
+6,6,6,2023-01-15 13:00:00,2023-01-15 14:30:00,Charlie,21.0,12V battery load cycle
+7,7,7,2023-01-16 09:45:00,2023-01-16 11:00:00,Alice,18.9,DC-DC converter efficiency test
+8,8,8,2023-01-17 15:00:00,2023-01-17 16:10:00,Bob,17.5,Airbag control unit diagnostics
+9,9,9,2023-01-18 10:00:00,2023-01-18 11:30:00,Charlie,16.0,Wheel speed sensor noise analysis
+10,10,10,2023-01-19 08:00:00,2023-01-19 09:20:00,Alice,19.8,Onboard charger thermal cycle
+11,1,2,2023-01-20 11:00:00,2023-01-20 12:30:00,Bob,18.2,Inverter under high load
+12,2,3,2023-01-21 09:30:00,2023-01-21 10:45:00,Charlie,17.9,ECU firmware validation
+13,3,4,2023-01-22 14:00:00,2023-01-22 15:10:00,Alice,20.1,Brake sensor vibration test
+14,4,5,2023-01-23 08:15:00,2023-01-23 09:40:00,Bob,19.4,Steering sensor alignment
+15,5,6,2023-01-24 10:00:00,2023-01-24 11:20:00,Charlie,18.7,12V battery discharge curve
+16,6,7,2023-01-25 13:30:00,2023-01-25 14:50:00,Alice,21.5,DC-DC converter ripple test
+17,7,8,2023-01-26 09:00:00,2023-01-26 10:30:00,Bob,20.0,Airbag ECU fault injection
+18,8,9,2023-01-27 15:00:00,2023-01-27 16:15:00,Charlie,17.3,Wheel speed sensor latency
+19,9,10,2023-01-28 08:45:00,2023-01-28 10:00:00,Alice,18.0,Onboard charger efficiency
+20,10,1,2023-01-29 11:00:00,2023-01-29 12:20:00,Bob,19.6,Battery thermal runaway simulation
+21,1,3,2023-01-30 09:00:00,2023-01-30 10:10:00,Charlie,16.9,ECU stress test
+22,2,4,2023-01-31 14:00:00,2023-01-31 15:30:00,Alice,18.4,Brake sensor long-duration test
+23,3,5,2023-02-01 08:00:00,2023-02-01 09:30:00,Bob,17.8,Steering sensor precision check
+24,4,6,2023-02-02 10:15:00,2023-02-02 11:45:00,Charlie,20.2,12V battery recharge cycle
+25,5,7,2023-02-03 13:00:00,2023-02-03 14:20:00,Alice,19.0,DC-DC converter thermal drift

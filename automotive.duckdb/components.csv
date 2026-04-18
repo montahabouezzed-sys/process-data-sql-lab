@@ -1,0 +1,11 @@
+component_id,component_name,category,supplier,production_date
+1,High-Voltage Battery,Battery,LG Energy,2022-05-12
+2,Inverter,Power Electronics,Bosch,2022-03-08
+3,ECU Engine Control,ECU,Continental,2021-11-20
+4,Brake Pressure Sensor,Sensor,Bosch,2021-09-14
+5,Steering Angle Sensor,Sensor,ZF,2022-01-30
+6,12V Battery,Battery,Varta,2021-07-19
+7,DC-DC Converter,Power Electronics,Siemens,2022-04-22
+8,Airbag Control Unit,ECU,Continental,2021-12-05
+9,Wheel Speed Sensor,Sensor,Delphi,2022-02-17
+10,Onboard Charger,Power Electronics,Siemens,2022-06-10
